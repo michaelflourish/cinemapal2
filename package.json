@@ -1,0 +1,24 @@
+{
+  "name": "cinemapaltwo",
+  "version": "1.0.0",
+  "description": "Version 2.o of the cinemapal project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelflourish/cinemapal2.git"
+  },
+  "author": "Olanrewaju Afolayan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelflourish/cinemapal2/issues"
+  },
+  "homepage": "https://github.com/michaelflourish/cinemapal2#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
